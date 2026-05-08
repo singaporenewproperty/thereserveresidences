@@ -1,0 +1,9 @@
+# The Reserve Residences
+
+> The Reserve Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thereserveresidences/
+
+## Pages
+
+- [The Reserve Residences](https://singaporenewproperty.github.io/thereserveresidences/): The Reserve Residences property information.
